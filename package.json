@@ -1,0 +1,14 @@
+{
+  "name": "drps-backend",
+  "version": "1.0.0",
+  "description": "Indexer and API for Drps Protocol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
